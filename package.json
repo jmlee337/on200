@@ -4,8 +4,12 @@
   "scripts": {
     "start": "node app.js"
   },
+  "type": "module",
   "keywords": [],
   "author": "",
   "license": "MIT",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "bottleneck": "^2.19.5"
+  }
 }
